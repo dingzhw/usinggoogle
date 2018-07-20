@@ -9,8 +9,8 @@ methods to pass through GFW/ mostly using google
 1. 谷歌学术：https://xue.glgoo.net/
 2. 谷歌搜索：https://www.heyangli.top/ 
 3. 集合站点:
-  1. http://ac.scmor.com/
-  2. http://www.shgfjx.top/
+    1. http://ac.scmor.com/
+    2. http://www.shgfjx.top/
 
 > 关于网络镜像的使用说明：
 > 谷歌镜像站点的原理就是通过访问境外的第三方网站，然后网站帮你进行谷歌搜索，绝大部分谷歌镜像站点都是由非盈利性质的公益行为，但也有少量出于盗取信息目的的网站，在使用镜像的过程中，注意避免在搜索框中输入个人敏感信息。
